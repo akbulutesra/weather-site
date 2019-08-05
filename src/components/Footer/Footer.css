@@ -1,0 +1,14 @@
+.FooterBox {
+    background-image: url("../../assets/black-and-white-clear-cool-459451.jpg");
+    height: 200px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: wheat;
+}
+
+.InfoBox {
+    float: right;
+    margin-right: 100px;
+    margin-top: 39px;
+    font-size: 24px;
+}
