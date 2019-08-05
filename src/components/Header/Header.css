@@ -1,0 +1,11 @@
+.HeaderBox {
+    background-image: url("../../assets/clouds-dawn-dramatic-1118873.jpg");
+    height: 200px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 80px;
+    color: wheat;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 200px;
+}
