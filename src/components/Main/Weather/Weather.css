@@ -1,0 +1,8 @@
+.WeatherBox {
+    display: flex;
+    height: 50px;
+}
+
+.WeatherBoxCityName {
+    width: 25%;
+}
